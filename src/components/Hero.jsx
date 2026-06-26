@@ -13,7 +13,7 @@ function Hero() {
                 <motion.div
                     initial={{ opacity: 0, x: -60 }}
                     animate={{ opacity: 1, x: 0 }}
-                    transition={{ duration: 0.8 }}
+                    transition={{ duration: 1.0 }}
                 >
                     <p className="text-cyan-400 text-lg mb-3">
                         👋 Hello, I'm
@@ -25,13 +25,14 @@ function Hero() {
                     </h1>
 
                     <h2 className="text-2xl md:text-3xl text-gray-300 mt-5 font-semibold">
-                        MERN Stack Developer
+                        MERN Stack & AI Developer
                     </h2>
 
                     <p className="text-gray-400 mt-6 leading-8 max-w-xl">
                         Passionate Full Stack Developer specializing in React, Node.js,
-                        Express.js and MongoDB. I enjoy building responsive web
-                        applications with clean UI and scalable backend solutions.
+                        Express.js and MongoDB. I enjoy building responsive web applications with clean UI and scalable backend solutions.
+                        Passionate MERN Stack & AI Developer focused on building scalable web applications,
+                        AI-powered solutions, and workflow automation using modern technologies and intelligent tools.
                     </p>
 
                     <div className="flex flex-wrap gap-4 mt-8">

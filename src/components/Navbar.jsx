@@ -9,7 +9,7 @@ function Navbar() {
 
                 {/* Logo */}
                 <h1 className="text-2xl font-bold text-cyan-400 tracking-wide">
-                    Yogeswaran
+                     <span className="text-white">Yoges</span>waran
                 </h1>
 
                 {/* Menu */}

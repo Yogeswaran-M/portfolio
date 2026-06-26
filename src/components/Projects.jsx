@@ -83,6 +83,7 @@ function Projects() {
                                     {project.github === "#" ? (
                                         <span className="px-4 py-2 rounded-lg border border-gray-500 text-gray-400 font-medium">
                                             🔒 Private Repository
+                                            
                                         </span>
                                     ) : (
                                         <a

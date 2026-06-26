@@ -10,11 +10,11 @@ function Footer() {
         {/* Left */}
         <div>
           <h2 className="text-2xl font-bold text-cyan-400">
-            Yogeswaran M
+             <span className="text-white">Yogeswaran</span> M
           </h2>
 
           <p className="text-gray-400 mt-2">
-            MERN Stack Developer
+            MERN & AI Developer
           </p>
         </div>
 

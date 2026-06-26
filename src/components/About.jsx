@@ -21,10 +21,9 @@ function About() {
           </h2>
 
           <p className="text-center text-gray-400 mt-5 max-w-3xl mx-auto leading-8">
-            I'm a passionate MERN Stack Developer who enjoys building
-            responsive, modern and scalable web applications. I love learning
-            new technologies and solving real-world problems through clean,
-            efficient code.
+            I'm a passionate MERN Stack & AI Developer who enjoys building responsive, scalable, and user-friendly web applications.
+            I love exploring AI tools, prompt engineering, browser automation, and modern development workflows to create smarter and more efficient software solutions.
+            I'm continuously learning and applying new technologies to solve real-world problems.
           </p>
 
           <div className="grid md:grid-cols-3 gap-8 mt-16">
